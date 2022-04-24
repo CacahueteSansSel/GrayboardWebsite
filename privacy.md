@@ -1,0 +1,3 @@
+# Grayboard Privacy Policy
+
+In itself, the Grayboard software and Cacahuète Dev don't collect any user data. The OAuth session token used for integrating with Notion pages is retrieved from Notion when logging in and sent to the remote game server. **This token is sent to the remote server** you are connected if, and **only if** you enable the Notion option inside the "Whiteboards" user interface. The game will show a warning before proceeding. This token is obviously not collected by Cacahuète Dev. The responsability of any usage of this token belongs to the owner of the remote game server.
