@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
+body {
+    background-color: rgb(40, 40, 40);
+    color: white;
+    text-align: center;
+}
+
+p {
+    font-family: Poppins;
+}
+
+h1 {
+    font-family: Poppins;
+}
+
+button {
+    background-color: brown;
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 5px 10px 5px 10px;
+    color: white;
+    font-family: Poppins;
+    font-weight: bold;
+}
+
+button:hover {
+    background-color: rgb(209, 52, 52);
+    cursor: pointer;
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 5px 10px 5px 10px;
+    color: white;
+}
+
+.gbLogo {
+    width: 45%;
+}
+
+.content {
+    margin: auto;
+    width: 50%;
+    position: absolute;
+    top: 35%;
+    left: 25%;
+}
+
+.footer {
+    font-family: Poppins;
+    color: rgb(155, 155, 155);
+    font-size: 12px;
+}
